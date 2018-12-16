@@ -1,0 +1,52 @@
+/*
+h1 {
+    color:forestgreen;
+    background-color: Yellow;
+}
+*/
+
+.redTextClass {
+    color:red;
+    background-color: Yellow;
+}
+
+.head{
+    background-color:darkgray;
+    height:70px;
+    margin: 5px 1.5%;
+}
+.menubar{
+    background-color: aquamarine;
+    height:25px;
+    margin: 5px 1.5%;
+}
+
+.menubar li{
+    color:blue;
+    padding: 2px 0px 0px 0px;
+    float:left;
+    width:65px;
+    list-style: none;
+    font-weight: 600;
+}
+
+.simpleDiv{
+    position:inherit;
+    background-color: cadetblue;
+    height: 500px;
+    width: 30%;
+    float:left;
+    border: 1px solid black;
+    margin: 5px 1.5%;
+}
+.btnAddItem{
+    width: 80px;
+    height: 20px;
+    margin-top  :5px; 
+    margin-left: 10px;
+}
+.actionBar{
+    height:25px;
+    text-align: left;
+     margin: 5px 1.5%;
+}
